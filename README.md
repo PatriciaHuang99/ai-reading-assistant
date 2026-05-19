@@ -4,6 +4,10 @@ A minimal development scaffold for an AI reading assistant monorepo.
 
 This task creates the project structure only. Ollama translation, browser speech synthesis, and SQLite-backed history will be added later.
 
+## Screenshot
+
+![First UI layout](assets/first-ui-layout.png)
+
 ## Structure
 
 ```text
